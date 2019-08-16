@@ -78,6 +78,11 @@ export type LegendConfig = LegendMixins &
      * @minimum 0
      */
     gradientLength?: number;
+
+    /**
+     * TODO: write me
+     */
+    unselectedOpacity?: number;
   };
 
 /**
